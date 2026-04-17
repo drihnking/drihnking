@@ -1,12 +1,13 @@
 ## Hi! I'm Veico and I am always looking at the ins and outs of computers to learn new things!
 
-- I'm currently working on a Python-based simulation designed to model and analyze information propagation across a network of independent devices! It focuses on distributed coordination, specifically how alerts and cancellations travel through a peer-to-peer topology with variable latency.
+- I'm currently working on a Python-based simulation that models and analyzes information propagation across a network of independent devices. It focuses on distributed coordination, specifically how alerts and cancellations travel through a peer-to-peer topology with variable latency.
 
-- Learning Python, Java, C++
+- Currently learning... Python, Java, C++
 - I am always willing to help or collaborate on side projects that relate to machine learning or artificial intelligence!
 
 - If you just want to chat, I love talking about new AI models, software mechanics, stocks, anime, or to just meet new people!
 
+- The best ways to contact me are at veicolai@gmail.com or through LinkedIn! Instagram is always a good option too if you want to be friends :-)
 <!--
 **drihnking/drihnking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
